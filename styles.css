@@ -12,6 +12,9 @@ body {
     background: #cfcfcf;
     margin: 10px auto;
     border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 form {
