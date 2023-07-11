@@ -1,3 +1,16 @@
 body {
     background: limegreen;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    displaY: flex;
+    flex-direction: column;
+    width: 80vw;
+    align-items: center;
+    gap: 1em;
+    background: rgb(185, 238, 185);
+    padding: 20px 10px;
+    border-radius: 20px;
 }
