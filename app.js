@@ -1,8 +1,7 @@
 let accessCode = document.getElementById("access-code")
 const pinInput = document.getElementById("pin-input")
 const submitBtn = document.getElementById("submit-btn")
-
-// let randomNumber =  Math.floor(Math.random() * 900000)   
+  
 
 accessCode.value =  Math.floor(Math.random() * 900000)
 
